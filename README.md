@@ -1,4 +1,6 @@
- A Course for Machine Learning with TensorFlow library.  (Verified by Zhen Chen)
+Code Exmaples and Tutorials for the Course of `Machine Learning with TensorFlow library`. 
+
+ (Tested and Verified by Zhen Chen)
  
 # Python 与TensorFlow软件安装
 
@@ -32,3 +34,8 @@ TF Layers （https://www.tensorflow.org/tutorials/layers）
 
 （https://www.tensorflow.org/tutorials/deep_cnn）
 
+# 参考
+
+Stanford CS 20SI: TensorFlow for Deep Learning Research.
+
+http://cs20si.stanford.edu
