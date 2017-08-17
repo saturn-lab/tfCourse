@@ -1,4 +1,4 @@
-# Machine Learning with TensorFlow library（ 使用TensorFlow的机器学习 ）
+# 使用TensorFlow的机器学习（Machine Learning with TensorFlow library）
 
 Code Exmaples and Tutorials for the Course of `Machine Learning with TensorFlow library`. 
 
