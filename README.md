@@ -6,7 +6,7 @@ Code Exmaples and Tutorials for the Course of `Machine Learning with TensorFlow 
  
 # Python 安装
 
-## Python 3.6.2（www.python.org）
+## Python 3.6.2（ http://www.python.org）
 
 Python安装程序可以从www.python.org直接下载，或者也可以直接安装Anacoda Python发行版。
 
