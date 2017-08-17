@@ -1,6 +1,8 @@
+# Machine Learning with TensorFlow library（ 使用TensorFlow的机器学习 ）
+
 Code Exmaples and Tutorials for the Course of `Machine Learning with TensorFlow library`. 
 
- (Tested and Verified by Zhen Chen)
+ Code is Tested and Verified by Zhen Chen.
  
 # Python 与TensorFlow软件安装
 
