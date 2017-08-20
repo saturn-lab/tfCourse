@@ -44,4 +44,8 @@ TF Layers （https://www.tensorflow.org/tutorials/layers）
 
 Stanford CS 20SI: TensorFlow for Deep Learning Research.
 
-http://cs20si.stanford.edu
+(http://cs20si.stanford.edu)
+
+O'Reilly's "A Short Course on TensorFlow"
+
+(https://github.com/chiphuyen/tf_oreilly)
