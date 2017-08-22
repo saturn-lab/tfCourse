@@ -48,7 +48,7 @@ def main():
   classifier = tf.contrib.learn.DNNClassifier(feature_columns=feature_columns,
                                               hidden_units=[10, 20, 10],
                                               n_classes=3,
-                                              model_dir="C:\\Users\\icenter\\Desktop\\Iris-tensorflow\\")
+                                              model_dir="C:\\Users\\icenter\\Desktop\\Iris-tensorflow\\model\\")
   # Define the training inputs
   def get_train_inputs():
     x = tf.constant(training_set.data)
