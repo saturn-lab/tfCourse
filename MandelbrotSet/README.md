@@ -1,1 +1,3 @@
 MandelbrotSet
+
+Using Juypter Notebook. 
