@@ -10,9 +10,9 @@ Code Exmaples and Tutorials for the Course of `Machine Learning with TensorFlow`
 
 Python安装程序可以从www.python.org直接下载，或者也可以直接安装Anacoda Python发行版。
 
-# TensorFlow软件 安装
+# TensorFlow 安装
 
-## TensorFlow 1.2 （http://www.tensorflow.org）
+## TensorFlow 1.3+ （http://www.tensorflow.org）
 
 安装好Python之后，TensorFlow安装是相当简单的。
 
