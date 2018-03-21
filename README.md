@@ -40,6 +40,10 @@ TF Layers （https://www.tensorflow.org/tutorials/layers）
 
 （https://www.tensorflow.org/tutorials/deep_cnn）
 
+## TensorFlow循环网络（PTB  数据集 ）
+
+（https://www.tensorflow.org/tutorials/recurrent）
+
 # 参考
 
 Stanford CS 20SI: TensorFlow for Deep Learning Research.
