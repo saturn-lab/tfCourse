@@ -30,7 +30,7 @@ Python安装程序可以从www.python.org直接下载，或者也可以直接安
 
 ## TensorFlow DNN分类器（Iris数据集）
 
-（https://www.tensorflow.org/get_started/tflearn）
+（https://www.tensorflow.org/get_started/eager）
 
 ## TensorFlow CNN分类器（MINIST数据集）
 
