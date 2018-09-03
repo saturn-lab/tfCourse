@@ -6,13 +6,13 @@ Code Exmaples and Tutorials for the Course of `Machine Learning with TensorFlow`
  
 # Python 安装
 
-## Python 3.6.2（ http://www.python.org）
+## Python 3.6.2（ http://www.python.org ）
 
 Python安装程序可以从www.python.org直接下载，或者也可以直接安装Anacoda Python发行版。
 
 # TensorFlow 安装
 
-## TensorFlow 1.3+ （http://www.tensorflow.org）
+## TensorFlow 1.3+ （http://www.tensorflow.org ）
 
 安装好Python之后，TensorFlow安装是相当简单的。
 
@@ -22,27 +22,27 @@ Python安装程序可以从www.python.org直接下载，或者也可以直接安
 
 ## TensorFlow 线性模型（Linear Model Tutorial）（Census数据集）
 
-(https://www.tensorflow.org/tutorials/wide ) 
+（https://www.tensorflow.org/tutorials/wide ） 
 
 ## TensorFlow逻辑斯提回归（logistics regression model）（Census数据集）
 
-(https://www.tensorflow.org/tutorials/wide#defining_the_logistic_regression_model)
+（https://www.tensorflow.org/tutorials/wide#defining_the_logistic_regression_model ）
 
 ## TensorFlow DNN分类器（Iris数据集）
 
-（https://www.tensorflow.org/get_started/eager）
+（https://www.tensorflow.org/get_started/eager ）
 
 ## TensorFlow CNN分类器（MINIST数据集）
 
-TF Layers （https://www.tensorflow.org/tutorials/layers）
+TF Layers （https://www.tensorflow.org/tutorials/layers ）
 
 ## TensorFlow深度卷积网络（CIFAR数据集）
 
-（https://www.tensorflow.org/tutorials/deep_cnn）
+（https://www.tensorflow.org/tutorials/deep_cnn ）
 
 ## TensorFlow循环网络（PTB  数据集 ）
 
-（https://www.tensorflow.org/tutorials/recurrent）
+（https://www.tensorflow.org/tutorials/recurrent ）
 
 # 参考
 
